@@ -16,15 +16,6 @@
 
 ---
 
-## 📌 Pinned Projects
-
-### [`shuttlemate`](https://github.com/your-shuttlemate-repo)
-Flutter-based navigation app for UChicago’s shuttle system  
-- Simplifies complex shuttle routes for students  
-- Emphasizes usability, map integration, and route recommendations
-
----
-
 ## 📈 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandyzhengg23&show_icons=true&theme=default)  
