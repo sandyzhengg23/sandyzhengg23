@@ -16,6 +16,13 @@
 
 ---
 
+## 📌 Pinned Projects
+
+### [`project_name`](repo_link)
+to be filled
+
+---
+
 ## 📈 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandyzhengg23&show_icons=true&theme=default)  
