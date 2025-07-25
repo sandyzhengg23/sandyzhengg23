@@ -5,7 +5,7 @@
 - 💻 Currently an AI/ML Fellow with Break Through Tech and Front-End R&D Intern at Yuanfudao  
 - 🌱 Learning C and Swift, and deepening my skills in machine learning and systems programming  
 - ⚡ Fun fact: I love binge-watching C-dramas, rock climbing, trying new coffee spots, and helping elders with digital literacy  
-- 📫 Reach me: sandyzhengg23@gmail.com | sandyzheng@uchicago.edu  
+- 📫 Reach me: sandy.zhengg23@gmail.com | sandyzheng@uchicago.edu  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sandyzhenggg/)
 
 ---
